@@ -1,5 +1,5 @@
 # The Technical Writer's Almanac
-An open-source collection of experiences, philosophies, ideas, and information pertaining to the field of Technical Writing.
+An open-source collection of experiences, philosophies, ideas, and information pertaining to the (cross-disciplinary) field of Technical Writing.
 
 ## Purpose
 Subject to change, the purpose behind the Technical Writer's Almanac is to serve as part blog, part resource repository for aspiring ***or*** current technical writers across any discipline.
