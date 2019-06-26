@@ -11,7 +11,7 @@ post's content, and **Date** of release.
 Posts will appear in order of most recent to least recent, *similar to the manner in which a podcast's archive UI is displayed*. 
 The Technical Writer's Almanac administrators will oversee and update this page with each submittal.
 
-## POST #1: [Writing is Not a Soft Skill](.../The-Tech-Writers-Almanac/Archive/Writing is not a Soft Skill)
+## POST #1: Writing is Not a Soft Skill
 ### Author: Tad Dieken
 [Abstract coming soon]
 ### Date: XX / XX / 2019
