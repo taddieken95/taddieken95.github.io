@@ -54,6 +54,6 @@ It is also important to note that any changes made by admins (no matter how smal
 
 Anything.
 
-Well, OK maybe not quite *everything*, but if it's something that's on your mind and pertains to the field of Technical Writing, then it's worth submitting. 
+Well, OK maybe not quite ***everything***, but if it's something that's on your mind and pertains to the field of Technical Writing, then it's worth submitting. 
 
 Want to share your story on how you got into Technical Writing? Tell us about it. Want to create a user manual on how to pry information out from reserved SMEs? Teach us. Do you have a call-to-action for how we can improve our field? Shout it from the rooftop and let us rally behind you. We're here to elevate, support, and learn - and we can't do it without *you*.
