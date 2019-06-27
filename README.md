@@ -10,4 +10,36 @@ Because it's the future! Or perhaps it's [actually](https://thenewstack.io/surve
 *Simply put, an open source blogging community allows for a repository of collective experiences, bridging the gap between the different factions of Technical Writing.*
 
 ## How Do I Contribute?
-[Populate with more information later]
+
+> It should be noted that this methodology may change as we discover more intuitive means to submitting contributions. Our commitment to inclusivity is our guiding principle, an arbitrary preference of an avenue of submittal is not.
+
+### Submittals Inside GitHub
+
+The primary and direct way to submit a post into this repository is by creating a markdown file directly to the **Archive** folder (highlighted below).
+
+
+1. Click on the **Archive** folder inside the The-Tech-Writers-Almanac repository.
+
+[Insert Image of Mouse Over Archive Folder Later]
+
+2. Select the **Create New File** button toward the top of the screen.
+
+[Insert Image of Mouse Over Create New File Button]
+
+3. Type the name of your post in the **Name Your File...** bar. 
+> **NOTE**: Be sure to type ".md" following your file name to ensure it is a Markdown file. Your title does not have to be one word, as shown below.
+
+[Insert Image of File Name Example]
+
+4. Start writing! Keep in mind, this will require some knowledge of Markdown. If you are new to Markdown, we recommend checking out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html).
+
+> **NOTE**: Additionally, be sure to check out our Style Guide for general notes on voicing! 
+
+5. Create and submit your pull request.
+
+> **NOTE**: This will send your newly created file to the moderators of this repository. We will then perform some finalizing touches,
+such as formatting, editing, assigning a post number, and updating the master list. After the Pull Request is merged, the post has been created! See below for an example of a finalized post.
+
+[Image of Finalized Post]
+
+
