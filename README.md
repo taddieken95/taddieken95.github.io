@@ -20,7 +20,7 @@ The primary and direct way to submit a post into this repository is by creating 
 
 1. Click on the **Archive** folder inside the The-Tech-Writers-Almanac repository.
 
-[Insert Image of Mouse Over Archive Folder Later]
+![alt text](https://github.com/taddieken95/The-Tech-Writers-Almanac/blob/master/Images/Click%20Archive%20Folder.png "Click Archive Folder")
 
 2. Select the **Create New File** button toward the top of the screen.
 
