@@ -60,4 +60,4 @@ Want to share your story on how you got into Technical Writing? Tell us about it
 
 ## "Who's in charge here?"
 
-Well, *nobody*, really. However, if you're interested to learn more about the admins of this repository, feel free to visit **About the Admins**. That being said, we want to stress the importance we place on maintaining a singular plane, rather than a chain of command. This repository serves as a means for ***all voices***, and we will never prioritize one author over another.
+Well, *nobody*, really. However, if you're interested to learn more about the admins of this repository, feel free to visit [Admin Information](https://github.com/taddieken95/The-Tech-Writers-Almanac/blob/master/Admin%20Information.md "Admin Information"). That being said, we want to stress the importance we place on maintaining a singular plane, rather than a chain of command. This repository serves as a means for ***all voices***, and we will never prioritize one author over another.
