@@ -43,8 +43,17 @@ such as formatting, editing, assigning a post number, and updating the master li
 [Image of Finalized Post]
 
 
-### "But what if I'm not GitHub savvy? How do I contribute?
+### "But what if I'm not GitHub savvy? How do I contribute?"
 
 As mentioned before, our mission statement is inclusivity within the field of Technical Writing. This means that documentarians of any product (whether it be lawn mowers or cloud based servers) are both welcome and highly encouraged to give us their voice. If you desire to submit an article, feel free to type it up in some sort of word processor (whether it be Microsoft Word / Google Drive / etc.) and e-mail it to tad.dieken@gmail.com. We will gladly take care of reformatting your article into Markdown so that our community can hear your voice.
 
 It is also important to note that any changes made by admins (no matter how small) will be sent to the author for their approval. We are a multi-voiced medium and, as such, desire to ensure that authorial intent is prioritized.
+
+
+## "What should I write about?"
+
+Anything.
+
+Well, OK maybe not quite *everything*, but if it's something that's on your mind and pertains to the field of Technical Writing, then it's worth submitting. 
+
+Want to share your story on how you got into Technical Writing? Tell us about it. Want to create a user manual on how to pry information out from reserved SMEs? Teach us. Do you have a call-to-action for how we can improve our field? Shout it from the rooftop and let us rally behind you. We're here to elevate, support, and learn - and we can't do it without *you*.
