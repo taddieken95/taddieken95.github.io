@@ -24,12 +24,12 @@ The primary and direct way to submit a post into this repository is by creating 
 
 2. Select the **Create New File** button toward the top of the screen.
 
-[Insert Image of Mouse Over Create New File Button]
+![alt text](https://github.com/taddieken95/The-Tech-Writers-Almanac/blob/master/Images/Click%20Create%20New%20File.png "Click Create New File")
 
 3. Type the name of your post in the **Name Your File...** bar. 
 > **NOTE**: Be sure to type ".md" following your file name to ensure it is a Markdown file. Your title does not have to be one word, as shown below.
 
-[Insert Image of File Name Example]
+![alt text](https://github.com/taddieken95/The-Tech-Writers-Almanac/blob/master/Images/Name%20Your%20File.png "Name Your File...")
 
 4. Start writing! Keep in mind, this will require some knowledge of Markdown. If you are new to Markdown, we recommend checking out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html).
 
